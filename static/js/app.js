@@ -1,4 +1,4 @@
-// UFO Sightings - CSS Style Sheet 
+// UFO Sightings - Javascript
 
 // Variable Declaration
 let tbody = d3.select("tbody");
