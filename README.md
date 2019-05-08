@@ -14,6 +14,8 @@ Create a web page with JavaScript, HTML5, CSS3 and D3.js to create tables dynami
 * Make sure there are columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least
 * Use a date form in the HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input
 
+![](Images/web_page.png)
+
 
 ## Assessment
 
